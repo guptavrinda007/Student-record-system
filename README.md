@@ -14,7 +14,7 @@ A command-line C++ application built using Object-Oriented Programming (OOP) pri
 
 ## How to Run Locally
 1. Clone the repository:
-   git clone https://github.com/guptavrinda007/student-record-management-cpp.git
+   git clone [https://github.com/guptavrinda007/student data and performance management system.cpp.git](https://github.com/guptavrinda007/student data and performance management system.cpp.git)
 2. Navigate to directory:
    cd student-record-management-cpp
 3. Compile the code:
