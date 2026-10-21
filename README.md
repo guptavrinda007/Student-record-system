@@ -14,10 +14,10 @@ A command-line C++ application built using Object-Oriented Programming (OOP) pri
 
 ## How to Run Locally
 1. Clone the repository:
-   git clone [https://github.com/guptavrinda007/student data and performance management system.cpp.git](https://github.com/guptavrinda007/student data and performance management system.cpp.git)
+   '''git clone [https://github.com/guptavrinda007/student data and performance management system.cpp.git](https://github.com/guptavrinda007/student data and performance management system.cpp.git)'''
 2. Navigate to directory:
-   cd student-record-management-cpp
+   cd student data and performance management system.cpp
 3. Compile the code:
-   g++ main.cpp -o student_system
+   g++ student data and performance management system.cpp -o student_system
 4. Run executable:
    ./student_system
